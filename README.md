@@ -1,3 +1,3 @@
-# KNN-Cancer-detection-
+# KNN-diabetes
 A well-known machine learning technique, the K-Nearest Neighbours (KNN) algorithm is implemented in order to perform classification and regression. The KNN algorithm can be utilised to classify instances as malignant or non-cancerous in the context of cancer detection, utilising features extracted from medical data.
 K-Nearest Neighbors (KNN) is a simple yet powerful supervised learning algorithm used for classification and regression tasks. In KNN, predictions are made based on the majority class or average value of the K nearest data points in the feature space. It's a non-parametric algorithm, meaning it doesn't make any assumptions about the underlying data distribution. KNN is intuitive and easy to understand, making it a popular choice for beginners and as a baseline model for more complex algorithms. However, its performance can be sensitive to the choice of K and the distance metric used.
